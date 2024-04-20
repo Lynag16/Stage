@@ -8,3 +8,18 @@ Un email:
 
 
 **Semaine 1&2** (*Du 08/04/2024 au 19/04/2024*)
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien. Je voulais vous informer de mon progrès durant les deux premières semaines de mon stage :
+
+- J'ai débuté en récupérant le matériel nécessaire, puis j'ai entamé la découverte du projet sur lequel l'équipe travaille.
+- J'ai préparé et fais des présentations sur Jupyter.
+- J'ai acquis de nouvelles compétences en utilisant Docker et Flask.
+- J'ai entamé le processus de débogage d'une section spécifique du code liée au projet.
+
+Je reste à votre disposition pour toute question ou précision supplémentaire.
+
+Bien cordialement,
+
+Lynda AGOUAZI
