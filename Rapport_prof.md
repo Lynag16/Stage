@@ -23,3 +23,25 @@ Je reste à votre disposition pour toute question ou précision supplémentaire.
 Bien cordialement,
 
 Lynda AGOUAZI
+
+
+
+**Semaine 3&4** (*Du 22/04/2024 au 03/05/2024*)
+
+Objet : Avancement de mon stage - Semaines 3&4
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien. Je tiens à vous informer des progrès réalisés au cours des deux dernières semaines de mon stage :
+
+- J'ai mené à terme le débogage du code sur lequel j'avais commencé à travailler.
+-J'ai apporté des améliorations significatives au code, notamment en optimisant son fonctionnement et en renforçant la gestion des erreurs.
+- J'ai eu l'opportunité de mettre en pratique mes compétences en utilisant SQLAlchemy ORM avec Flask et SQLite3.
+- J'ai acquis de nouvelles connaissances sur la manipulation des images Docker, incluant leur création, leur construction et la gestion des conteneurs associés.
+- J'ai également entamé une analyse des documents au format PDF en utilisant la bibliothèque pdfplumber en Python.
+  
+Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
+
+Bien cordialement,
+
+Lynda AGOUAZI
