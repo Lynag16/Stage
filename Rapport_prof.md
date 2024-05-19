@@ -45,3 +45,24 @@ Je reste à votre disposition pour toute question ou pour fournir des précision
 Bien cordialement,
 
 Lynda AGOUAZI
+
+**Semaine 5&6** (*Du 06/05/2024 au 16/05/2024*)
+
+Objet : Avancement de mon stage - Semaines 5&6
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien. Je tiens à vous informer des progrès réalisés au cours des deux dernières semaines de mon stage :
+
+- J'ai continué à apporter des améliorations au code ainsi qu'aux résultats qu'il produit en extrayant des informations des fichiers.
+- J'ai regardé des projets sur Bitbucket et déployé le projet sur lequel je travaille.
+- J'ai réalisé des visualisations et suivi le traitement des documents dans un notebook Jupyter.
+  
+Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
+
+Bien cordialement,
+
+Lynda AGOUAZI
+
+
+
