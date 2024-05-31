@@ -77,7 +77,7 @@ J'espère que vous allez bien. Je tiens à vous informer des progrès réalisés
 - J'ai effectué l'extraction des tableaux des documents Word et les ai intégrés avec les données précédemment extraites, tout en maintenant la cohérence du document et des données. Cela représente une évolution significative du projet sur lequel je travaille.
 - J'ai continué à créer des notebooks Jupyter pour faciliter l'exécution et le suivi du traitement des documents, et j'ai corrigé les bugs rencontrés.
 - J'ai rencontré un conflit entre les bibliothèques utilisées dans le projet, certaines nécessitant une version plus récente de Python tandis que d'autres nécessitent une version plus ancienne. Pour résoudre ce problème, je vais opter pour une nouvelle architecture de l'application en utilisant RabbitMQ, Docker et MariaDB.
--J'ai découvert l'environnement Azure de Microsoft avec ses solutions d'IA.
+- J'ai découvert l'environnement Azure de Microsoft avec ses solutions d'IA.
 
 Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
 
