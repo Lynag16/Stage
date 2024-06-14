@@ -86,3 +86,20 @@ Bien cordialement,
 Lynda AGOUAZI
 
 
+
+**Semaine 9&10 (Du 03/06/2024 au 13/06/2024)**
+Objet : Avancement de mon stage - Semaines 9&10
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien. Je tiens à vous informer des progrès réalisés au cours des deux dernières semaines de mon stage :
+
+- J'ai travaillé sur un modèle d'intelligence artificielle pour le traitement des documents PDF. Ce modèle utilise RAG(retrieval augmented generation) et je l'ai implémenté sur n8n, minio et Appsmith. Après avoir réussi le modèle, je l'ai présenté avec un alternant au reste de l'entité.
+- J'ai effectué des évolutions sur le projet d'extraction des données à partir d'un document Word et j'ai commencé à implémenter la nouvelle architecture.
+
+Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
+
+Bien cordialement,
+
+Lynda AGOUAZI
+
