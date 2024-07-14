@@ -121,3 +121,19 @@ Bien cordialement,
 
 Lynda AGOUAZI
 
+
+**Semaine 13&14 (Du 01/07/2024 au 12/07/2024)**
+**Objet : Avancement de mon stage - Semaines 13&14**
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien. Je tiens à vous informer des progrès réalisés au cours des deux dernières semaines de mon stage :
+
+J'ai terminé la nouvelle architecture de l'application pour l'extraction des données à partir de documents Word, en utilisant RabbitMQ, Flask, SQLAlchemy, et Docker.
+J'ai travaillé sur la plateforme d'innovation, où des collaborateurs peuvent tester plusieurs outils innovants.
+J'ai appris à déployer des projets sur Openshift.
+Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
+
+Bien cordialement,
+
+Lynda AGOUAZI
