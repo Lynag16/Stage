@@ -137,3 +137,23 @@ Je reste à votre disposition pour toute question ou pour fournir des précision
 Bien cordialement,
 
 Lynda AGOUAZI
+
+
+
+**Semaine 15 & 16 (du 15/07/2024 au 26/07/2024)**
+**Objet : Avancement de mon stage - Semaines 15 & 16**
+
+Bonjour Monsieur Seinturier,
+
+J'espère que vous allez bien.
+
+Je souhaite vous faire part des progrès réalisés au cours des deux dernières semaines de mon stage :
+
+Les utilisateurs concernés ont testé la nouvelle application d'extraction de données à partir de documents Word, et j'ai corrigé les erreurs rencontrées.
+J'ai travaillé sur une solution pour l'extraction de données à partir de pages HTML en utilisant BeautifulSoup sur Jupyter.
+J'ai également collaboré avec les alternants sur la plateforme d'innovation.
+Je reste à votre disposition pour toute question ou pour fournir des précisions supplémentaires sur mes activités durant cette période.
+
+Bien cordialement,
+
+Lynda Agouazi
